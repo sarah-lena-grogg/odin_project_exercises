@@ -1,0 +1,3 @@
+Hello there! 
+
+This is just a test to see whether or not the Odin Project tutorial is working along.
