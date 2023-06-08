@@ -1,0 +1,19 @@
+.class {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second_element {
+    color: blue;
+    font-size: 36px;
+}
+
+.class_2 {
+    font-size: 24px;
+}
+
+#fourth_element {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
